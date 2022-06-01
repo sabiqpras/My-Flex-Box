@@ -1,0 +1,22 @@
+.box {
+    height: 100px;
+    width: 100px;
+    border-radius: 8px;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.continer {
+    display: flex;
+    justify-content: space-around;
+}
